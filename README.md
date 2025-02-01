@@ -1,6 +1,6 @@
 # T-Rex Chrome Dino Game: The Ultimate Offline Entertainment
 
-In today’s fast-paced world, we often rely on the internet for everything from work to entertainment. But have you ever wondered what happens when your internet connection drops, and you’re stuck with no Wi-Fi? While many may panic, there’s actually a hidden gem built right into your Google Chrome browser that can entertain you during those frustrating offline moments: the **T-Rex <a href="https://chromedino.app/">Chrome Dino Game</a>**.
+In today’s fast-paced world, we often rely on the internet for everything from work to entertainment. But have you ever wondered what happens when your internet connection drops, and you’re stuck with no Wi-Fi? While many may panic, there’s actually a hidden gem built right into your Google Chrome browser that can entertain you during those frustrating offline moments: the **T-Rex <a href="https://chromedino.app/">Chrome Dino</a> Game**.
 
 In this article, we’ll explore everything you need to know about this iconic browser game, including its history, how to play, and why it remains so popular.
 
